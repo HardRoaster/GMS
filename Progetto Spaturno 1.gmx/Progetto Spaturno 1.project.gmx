@@ -8,12 +8,18 @@
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_wall</sprite>
-    <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\spt_down</sprite>
+    <sprite>sprites\spt_right</sprite>
+    <sprite>sprites\spt_left</sprite>
+    <sprite>sprites\spt_up</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths">
     <path>paths\path0</path>
   </paths>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\object1</object>
